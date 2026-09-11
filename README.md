@@ -7,6 +7,10 @@ The plugin generates rows of stitching vias and solder-mask openings
 around a selected rectangular area, making it easier to prepare a PCB
 for soldered metal shielding cans.
 
+
+<img src="doc/test.gif" width="600"/> 
+
+
 ## Features
 
 -   Generates via fences around a rectangular area
