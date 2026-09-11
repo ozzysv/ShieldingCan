@@ -1,0 +1,18 @@
+{
+  "net": "GNDD",
+  "via_dia": 0.6,
+  "drill": 0.3,
+  "pitch": 1.2,
+  "edge_offset": 0.5,
+  "row_spacing": 0.8,
+  "clearance": 0.5,
+  "mask_extra": 0.25,
+  "keepout_margin": 0.5,
+  "rows": 3,
+  "side": 0,
+  "mask_side": 1,
+  "staggered": 0,
+  "cleanup": 1,
+  "units_mm": "mm",
+  "language": "en"
+}
